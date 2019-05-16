@@ -1,0 +1,7 @@
+{
+	"public/index.html": {
+		"resources": [
+			"public/%3C%\u003d%20BASE_URL%20%%3Efavicon.ico"
+		]
+	}
+}
